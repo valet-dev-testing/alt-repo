@@ -8,4 +8,4 @@ jobs:
     name: Pass input and secrets to my-action
     runs-on: ubuntu-latest
     steps:
-      - run: echo "Inside workflow A!"
+      - run: echo "Inside workflow C!"
